@@ -1,0 +1,309 @@
+[
+  {
+    "train_number": "12675",
+    "train_name": "Kovai Express",
+    "from": "MGR Chennai Central (MAS)",
+    "to": "Coimbatore Junction (CBE)",
+    "route": [
+      "MGR Chennai Central",
+      "Tiruvallur",
+      "Arakkonam Junction",
+      "Walajah Road",
+      "Katpadi Junction",
+      "Ambur",
+      "Jolarpettai Junction",
+      "Morappur",
+      "Salem Junction",
+      "Erode Junction",
+      "Tiruppur",
+      "Coimbatore Junction"
+    ]
+  },
+  {
+    "train_number": "12676",
+    "train_name": "Kovai Express",
+    "from": "Coimbatore Junction (CBE)",
+    "to": "MGR Chennai Central (MAS)",
+    "route": [
+      "Coimbatore Junction",
+      "Tiruppur",
+      "Erode Junction",
+      "Salem Junction",
+      "Morappur",
+      "Jolarpettai Junction",
+      "Ambur",
+      "Katpadi Junction",
+      "Walajah Road",
+      "Arakkonam Junction",
+      "Tiruvallur",
+      "Perambur",
+      "MGR Chennai Central"
+    ]
+  },
+  {
+    "train_number": "12673",
+    "train_name": "Cheran Express",
+    "from": "MGR Chennai Central (MAS)",
+    "to": "Coimbatore Junction (CBE)",
+    "route": [
+      "MGR Chennai Central",
+      "Arakkonam Junction",
+      "Katpadi Junction",
+      "Jolarpettai Junction",
+      "Salem Junction",
+      "Erode Junction",
+      "Tiruppur",
+      "Coimbatore North",
+      "Coimbatore Junction"
+    ]
+  },
+  {
+    "train_number": "12674",
+    "train_name": "Cheran Express",
+    "from": "Coimbatore Junction (CBE)",
+    "to": "MGR Chennai Central (MAS)",
+    "route": [
+      "Coimbatore Junction",
+      "Tiruppur",
+      "Erode Junction",
+      "Salem Junction",
+      "Jolarpettai Junction",
+      "Katpadi Junction",
+      "Arakkonam Junction",
+      "Perambur",
+      "MGR Chennai Central"
+    ]
+  },
+  {
+    "train_number": "20643",
+    "train_name": "Chennai-Coimbatore Vande Bharat Express",
+    "from": "MGR Chennai Central (MAS)",
+    "to": "Coimbatore Junction (CBE)",
+    "route": [
+      "MGR Chennai Central",
+      "Salem Junction",
+      "Erode Junction",
+      "Tiruppur",
+      "Coimbatore Junction"
+    ]
+  },
+  {
+    "train_number": "20644",
+    "train_name": "Coimbatore-Chennai Vande Bharat Express",
+    "from": "Coimbatore Junction (CBE)",
+    "to": "MGR Chennai Central (MAS)",
+    "route": [
+      "Coimbatore Junction",
+      "Tiruppur",
+      "Erode Junction",
+      "Salem Junction",
+      "MGR Chennai Central"
+    ]
+  },
+  {
+    "train_number": "12671",
+    "train_name": "Nilgiri Express",
+    "from": "MGR Chennai Central (MAS)",
+    "to": "Mettupalayam (MTP)",
+    "route": [
+      "MGR Chennai Central",
+      "Arakkonam Junction",
+      "Katpadi Junction",
+      "Salem Junction",
+      "Erode Junction",
+      "Tiruppur",
+      "Coimbatore North",
+      "Coimbatore Junction",
+      "Mettupalayam"
+    ]
+  },
+  {
+    "train_number": "12672",
+    "train_name": "Nilgiri Express",
+    "from": "Mettupalayam (MTP)",
+    "to": "MGR Chennai Central (MAS)",
+    "route": [
+      "Mettupalayam",
+      "Coimbatore Junction",
+      "Tiruppur",
+      "Erode Junction",
+      "Salem Junction",
+      "Katpadi Junction",
+      "Arakkonam Junction",
+      "Perambur",
+      "MGR Chennai Central"
+    ]
+  },
+  {
+    "train_number": "16615",
+    "train_name": "Chemmozhi Express",
+    "from": "Mannargudi (MQ)",
+    "to": "Coimbatore Junction (CBE)",
+    "route": [
+      "Mannargudi",
+      "Nidamangalam",
+      "Thanjavur Junction",
+      "Budalur",
+      "Tiruchchirappalli Junction",
+      "Karur Junction",
+      "Erode Junction",
+      "Tiruppur",
+      "Coimbatore North",
+      "Coimbatore Junction"
+    ]
+  },
+  {
+    "train_number": "16616",
+    "train_name": "Chemmozhi Express",
+    "from": "Coimbatore Junction (CBE)",
+    "to": "Mannargudi (MQ)",
+    "route": [
+      "Coimbatore Junction",
+      "Tiruppur",
+      "Erode Junction",
+      "Karur Junction",
+      "Tiruchchirappalli Junction",
+      "Budalur",
+      "Thanjavur Junction",
+      "Nidamangalam",
+      "Mannargudi"
+    ]
+  },
+  {
+    "train_number": "22665",
+    "train_name": "UDAY Express",
+    "from": "KSR Bengaluru (SBC)",
+    "to": "Coimbatore Junction (CBE)",
+    "route": [
+      "KSR Bengaluru",
+      "Krishnarajapuram",
+      "Kuppam",
+      "Tirupattur",
+      "Salem Junction",
+      "Erode Junction",
+      "Tiruppur",
+      "Coimbatore North",
+      "Coimbatore Junction"
+    ]
+  },
+  {
+    "train_number": "22666",
+    "train_name": "UDAY Express",
+    "from": "Coimbatore Junction (CBE)",
+    "to": "KSR Bengaluru (SBC)",
+    "route": [
+      "Coimbatore Junction",
+      "Tiruppur",
+      "Erode Junction",
+      "Salem Junction",
+      "Tirupattur",
+      "Kuppam",
+      "Krishnarajapuram",
+      "KSR Bengaluru"
+    ]
+  },
+  {
+    "train_number": "20641",
+    "train_name": "Coimbatore-Bengaluru Cantonment Vande Bharat Express",
+    "from": "Bengaluru Cantonment (BNC)",
+    "to": "Coimbatore Junction (CBE)",
+    "route": [
+      "Bengaluru Cantonment",
+      "Hosur",
+      "Dharmapuri",
+      "Salem Junction",
+      "Erode Junction",
+      "Tiruppur",
+      "Coimbatore Junction"
+    ]
+  },
+  {
+    "train_number": "20642",
+    "train_name": "Coimbatore-Bengaluru Cantonment Vande Bharat Express",
+    "from": "Coimbatore Junction (CBE)",
+    "to": "Bengaluru Cantonment (BNC)",
+    "route": [
+      "Coimbatore Junction",
+      "Tiruppur",
+      "Erode Junction",
+      "Salem Junction",
+      "Dharmapuri",
+      "Hosur",
+      "Bengaluru Cantonment"
+    ]
+  },
+  {
+    "train_number": "22609",
+    "train_name": "Intercity Express",
+    "from": "Mangaluru Central (MAQ)",
+    "to": "Coimbatore Junction (CBE)",
+    "route": [
+      "Mangaluru Central",
+      "Kasaragod",
+      "Kanhangad",
+      "Nileshwar",
+      "Payyanur",
+      "Kannur",
+      "Thalassery",
+      "Vadakara",
+      "Kozhikode",
+      "Parappanangadi",
+      "Tirur",
+      "Shoranur Junction",
+      "Ottappalam",
+      "Palakkad Junction",
+      "Coimbatore Junction"
+    ]
+  },
+  {
+    "train_number": "22610",
+    "train_name": "Intercity Express",
+    "from": "Coimbatore Junction (CBE)",
+    "to": "Mangaluru Central (MAQ)",
+    "route": [
+      "Coimbatore Junction",
+      "Palakkad Junction",
+      "Ottappalam",
+      "Shoranur Junction",
+      "Tirur",
+      "Parappanangadi",
+      "Kozhikode",
+      "Vadakara",
+      "Thalassery",
+      "Kannur",
+      "Payyanur",
+      "Nileshwar",
+      "Kanhangad",
+      "Kasaragod",
+      "Mangaluru Central"
+    ]
+  },
+  {
+  "train_number": "16721",
+  "train_name": "Coimbatore - Madurai Express",
+  "from": "Coimbatore Junction (CBE)",
+  "to": "Madurai Junction (MDU)",
+  "route": [
+    "Coimbatore Junction",
+    "Podanur Junction",
+    "Kinathukadavu Railway Station",
+    "Pollachi Junction Railway Station",
+    "Gomangalam Railway Station",
+    "Udumalaippettai Railway Station",
+    "Madattukulam Railway Station",
+    "Pushpattur Railway Station",
+    "Palani Railway Station",
+    "Chatrapatti Railway Station",
+    "Oddanchatram Railway Station",
+    "Akkaraipatti Railway Station",
+    "Dindigul Junction",
+    "Ambaturai",
+    "Kodaikanal Road",
+    "Vadippatti",
+    "Sholavandan",
+    "Samayanallur",
+    "Kudalnagar",
+    "Madurai Junction"
+  ]
+}
+]
